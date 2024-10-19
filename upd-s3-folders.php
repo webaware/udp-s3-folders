@@ -51,6 +51,8 @@ add_filter('updraftplus_backupmodule_get_options', function($options, $module) {
 
 			switch ($label) {
 
+				case 'daily':
+				case 'weekly':
 				case 'db':
 				case 'longdb':
 					$folder = $label;
