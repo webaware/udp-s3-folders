@@ -3,7 +3,7 @@
 Plugin Name: UDP S3 Folders
 Update URI: udp-s3-folders
 Description: add Amazon S3 path folders for different backups on UpdraftPlus
-Version: 0.0.2
+Version: 0.0.3
 Author: WebAware
 Author URI: https://shop.webaware.com.au/
 */

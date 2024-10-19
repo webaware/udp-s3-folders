@@ -4,4 +4,4 @@ Add Amazon S3 path folders for different backups on UpdraftPlus. For full story,
 
 - Sunday: backups go into /weekly/
 - all other days: backups go into /daily/
-- wp-cli label option overrides for labels "db", "longdb"
+- wp-cli label option overrides for labels "db", "longdb", "daily", "weekly"
